@@ -1,5 +1,7 @@
 # analytics-dash
 
+Python Dash app setup. 
+
 ## Development 
 Running the app in Docker
 
