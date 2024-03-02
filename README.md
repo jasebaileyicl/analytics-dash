@@ -18,7 +18,12 @@ On the Docker server these become:
 ## Use on Dev
 View the app in browser in dev on port 9000:  
 
-`http://localhost:9000/`
+`http://localhost:9000/`  
+
+Add sample screenshot 
+
+![img.png](img.png)
+
 
 
 [//]: # (docker build -t analytics . )
