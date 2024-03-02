@@ -8,12 +8,14 @@ Running the app in Docker
 This should allow edit of code in app folder
 Data can be added to the data folder
 
-On the Docker server these become:
+On the Docker server these become:  
 
-/app 
-/data
+- /app  
+- /data  
 
 ## Use on Dev
+View the app in browser in dev on port 9000:  
+
 `http://localhost:9000/`
 
 
