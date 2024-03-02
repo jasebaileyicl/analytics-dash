@@ -6,7 +6,7 @@ df = pd.read_csv('https://raw.githubusercontent.com/plotly/datasets/master/gapmi
 app = Dash(__name__)
 
 app.layout = html.Div([
-    html.Div(children='My First App with Data'),
+    html.Div(children='Sample X app'),
     dash_table.DataTable(data=df.to_dict('records'), page_size=10)
 ])
 
